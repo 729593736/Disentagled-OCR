@@ -12,17 +12,10 @@ Extracted code：TOLD
 
 
 @inproceedings{zhou2022disentangled,
-
   title={Disentangled OCR: A More Granular Information for “Text”-to-Image Retrieval},
-  
   author={Zhou, Xinyu and Li, Shilin and Chen, Huen and Zhu, Anna},
-  
   booktitle={Pattern Recognition and Computer Vision: 5th Chinese Conference, PRCV 2022, Shenzhen, China, November 4--7, 2022, Proceedings, Part I},
-  
   pages={510--523},
-  
   year={2022},
-  
   organization={Springer}
-  
 }
